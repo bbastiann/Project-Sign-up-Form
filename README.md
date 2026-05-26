@@ -24,8 +24,3 @@ During this project, I deepened my understanding of how browsers handle native f
 1. Shifting from `type="number"` to `type="tel"` to eliminate native browser spin buttons (arrows) and improve mobile keyboard behavior.
 2. Triggering UX-friendly validation states via CSS using `:user-invalid` instead of `:invalid`, which prevents fields from looking broken before the user even finishes typing.
 
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/project-sign-up-form.git](https://github.com/YOUR_USERNAME/project-sign-up-form.git)
