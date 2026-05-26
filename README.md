@@ -18,9 +18,5 @@ The goal of this project was to practice form structure, semantic HTML, advanced
 - CSS3 (Flexbox, Custom Fonts, Pseudo-classes)
 - Git & GitHub
 
-## What I Learned
 
-During this project, I deepened my understanding of how browsers handle native form validation without relying heavily on JavaScript scripts from the start. Key takeaways include:
-1. Shifting from `type="number"` to `type="tel"` to eliminate native browser spin buttons (arrows) and improve mobile keyboard behavior.
-2. Triggering UX-friendly validation states via CSS using `:user-invalid` instead of `:invalid`, which prevents fields from looking broken before the user even finishes typing.
 
