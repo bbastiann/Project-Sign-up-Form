@@ -4,9 +4,6 @@ This is a responsive and validated Sign-up Form landing page built as part of th
 
 The goal of this project was to practice form structure, semantic HTML, advanced CSS layouts (Flexbox), and native client-side form validation.
 
-## Preview
-![Project Screenshot](images/screenshot.png) *(Optional: Add a screenshot of your live page here later)*
-
 ## Features
 
 - **Semantic HTML5:** Structured with accessibility in mind, properly linking all `<label>` elements to their respective `<input>` fields.
